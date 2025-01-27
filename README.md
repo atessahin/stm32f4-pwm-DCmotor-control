@@ -20,7 +20,7 @@
 - Timer2 configured for 20 kHz PWM generation
 - PWM frequency optimized for motor control
 
-##Connections
+## Connections
 - BC547 Transistor Connections:
 - Emitter Pin (E): Connected to GND
 - Base Pin (B): Connected to GPIO through 220Ω resistor
